@@ -1,0 +1,82 @@
+Creating a personal website is a great way to showcase your professional profile. Here’s a simple template to get you started with HTML, JavaScript, and CSS. You can customize it further to fit your style and content.
+
+HTML
+
+<!DOCTYPE html>
+<html lang="e>/<n">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{jerimiah Rasmussen}- Portfolio</title>{Myahr208}
+<style>
+  body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+  .container { width: 80%; margin: auto; overflow: hidden; }
+  header { background: #333; color: white; padding-top: 30px; min-height: 70px; border-bottom: #6ab47b 3px solid; }
+  header a { color: #AiAiAi; text-decoration: none; text-transform: uppercase; font-size: 16px; }
+  header ul { padding: 0; list-style: none; }
+  header li { display: inline; padding: 0 20px 0 20px; }
+  header #branding { float: left; }
+  header #branding h1 { margin: 0; }
+  header nav { float: right; margin-top: 10px; }
+  header .highlight, header .current a { color: #e8491d; font-weight: bold; }
+  header a:hover { color: #ffffff; font-weight: bold; }
+  #showcase { min-height: 400px; background: url('background.jpg') no-repeat 0 -400px; text-align: center; color: #ffffff; }
+  #showcase h1 { margin-top: 100px; font-size: 55px; margin-bottom: 10px; }
+  #showcase p { font-size: 20px; }
+</style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div id="branding"><Github.com>
+        <h1><span class="highlight">Your</span> Name</h1>
+      </div>
+      <nav>
+        <ul>
+          <li class="current"><a href="#bio">Biography</a></li>
+          <li><a href="#resume">Resume</a></li>
+          <li><a href="#contact">Contact</a></li><Amazon/store>
+        </ul><url><google.com/><playstore><chrome/webstore.com/><.store><<.org/><.net>{Web/browser}<internet>
+      </nav><website.page>
+    </div>
+  </header><search>
+
+  <section id="showcase">
+    <div class="container">
+      <h1>Professional Biography</h1>
+      <p>Describe your professional background, skills, and accomplishments.</p><Microsoft.certified><google.certified><Amazon.certifíed><Bachlor.degree.central,universty,washington><Business,adminsrtation<Harvard.online><
+    </div>
+  </section>
+
+  <section id="bio"><Linkdin><jeremiah/Rasmussen/GreenCollarCannabis/><jeremiahrasmussen@live.com><Artificial_intelligence><ChatGpt_3.5/><#%*"></>
+    <div class="container">
+      <h2>Biography</h2>
+      <p>Your biography goes here. You can talk about your education, work experience, skills, hobbies, and interests.</p>
+    </div>
+  </section>
+
+  <section id="resume">
+    <div class="container">
+      <h2>Resume</h2><indeed><Link/>
+      <p>Include a link to download your resume or detail your professional experience, education, skills, and references here.</p>
+    </div>
+  </section>
+
+  <section id="contact"><Myahr208.github.com><profile/≥
+    <div class="container">
+      <h2>Contact Details</h2>
+      <p>Provide ways for potential employers or clients to reach you. Include your email address, phone number, or a contact form.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Your Name <jerimiah Rasmussen>; 2024</p>
+  </footer>
+
+  <script>
+    // You can add JavaScript here for interactive components if needed
+  </script>
+</body>
+</html>
+AI-generated code. Review and use carefully. More info on FAQ.
+Remember to replace placeholder text with your actual biography, resume, and contact details. Also, ensure you have permission to use any images you include on your site. Good luck with your personal website! If you need further customization or functionality
